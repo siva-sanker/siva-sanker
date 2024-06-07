@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mesivasanker@gmail.com**
 
-- ⚡ Fun fact **I make jokes when I'm uncomfortable**
+- ⚡ Fun fact **“Well, as a kid, I had this fantastic idea that rearranging the magnets on the fridge could control the weather; I thought I was the David Blaine of meteorology!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
