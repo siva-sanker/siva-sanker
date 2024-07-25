@@ -20,7 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-sanker&show_icons=true&locale=en&layout=compact" alt="siva-sanker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siva-sanker&show_icons=true&locale=en" alt="siva-sanker" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siva-sanker&" alt="siva-sanker" /></p>
-
