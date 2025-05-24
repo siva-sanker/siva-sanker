@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mesivasanker@gmail.com**
 
-- ⚡ Fun fact- **I once tried to write a bug-free code... and the computer laughed at me.** 😸
+- ⚡ Fun fact- **"I write code fast enough to create new bugs before fixing the old ones — multitasking level: expert!"** 😸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
